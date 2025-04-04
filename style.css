@@ -360,6 +360,7 @@ button{
     align-items: center;
     justify-content: center;
     z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 .form__inner{
     display: flex;
@@ -403,6 +404,4 @@ button{
     display: flex;
 }
 
-.form-opened{
-    filter: blur(5px);
-}
+
